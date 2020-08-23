@@ -1,4 +1,4 @@
 # Fake-human-face-Generation
 
-model: DCGAN
-Framework: PyTorch, Python
+<br>model: DCGAN
+<br>Framework: PyTorch, Python
